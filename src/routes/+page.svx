@@ -1,4 +1,0 @@
-# Hi!
-## I'm Clara, welcome!
-
-<img src="https://media.tenor.com/oB3o62J9hjkAAAAM/dancing-ferris.gif" alt="Rust Ferris dancing" />

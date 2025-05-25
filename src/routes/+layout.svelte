@@ -6,8 +6,9 @@
 	import Navbar from '$lib/nav.svelte';
 </script>
 
-<div class="font-mono">
+<div class="bg-mybg text-myfg h-screen w-screen rounded-none font-mono">
 	<Navbar />
-
-	{@render children()}
+	<div class="m-4">
+		{@render children()}
+	</div>
 </div>
