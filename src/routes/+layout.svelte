@@ -1,8 +1,13 @@
 <script>
+	import '../app.css';
+
 	let { children } = $props();
+
 	import Navbar from '$lib/nav.svelte';
 </script>
 
-<Navbar />
+<div class="font-mono">
+	<Navbar />
 
-{@render children()}
+	{@render children()}
+</div>
