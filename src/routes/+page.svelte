@@ -6,7 +6,7 @@
 		alt="Rust Ferris dancing"
 	/>
 	<p class="text-center text-2xl text-wrap">
-		Hi! I'm <strong>Clara</strong>!<br /><br />
+		Hi! I'm <strong class="text-mypurple">Clara</strong>!<br /><br />
 		This is my personal website where I share my projects and thoughts.<br /><br />
 		Feel free to explore and reach out if you have any questions or just want to chat!<br /><br />
 	</p>

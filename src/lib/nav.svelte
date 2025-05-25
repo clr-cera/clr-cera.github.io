@@ -14,7 +14,7 @@
 			alt="Logo"
 		/>
 	</a>
-	<div class="flex flex-col items-center justify-center p-4 text-[#e0af68] md:flex-row">
+	<div class="text-myorange flex flex-col items-center justify-center p-4 md:flex-row">
 		<a class="px-3" href="/"><strong>Home</strong></a>
 		<a class="px-3" href="/about"><strong>About</strong></a>
 		<a class="px-3" href="/blog"><strong>Blog</strong></a>
