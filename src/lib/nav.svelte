@@ -1,10 +1,10 @@
 <nav
-	class="border-mypurple flex flex-col
-  items-center justify-start
+	class="border-mypurple flex flex-row
+  items-center justify-center
   border-b-1
   px-2 py-1.5
   text-white
-  md:flex-row"
+  "
 >
 	<a href="https://github.com/clr-cera">
 		<img
@@ -14,9 +14,10 @@
 			alt="Logo"
 		/>
 	</a>
-	<div class="text-myorange flex flex-col items-center justify-center p-4 md:flex-row">
+	<div class="text-myorange flex flex-row items-center justify-center p-4 text-xl md:text-base">
 		<a class="px-3" href="/"><strong>Home</strong></a>
 		<a class="px-3" href="/about"><strong>About</strong></a>
 		<a class="px-3" href="/blog"><strong>Blog</strong></a>
+		<a class="px-3" href="/contact"><strong>Contact</strong></a>
 	</div>
 </nav>
