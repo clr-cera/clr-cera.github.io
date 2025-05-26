@@ -3,8 +3,8 @@
 @plugin '@tailwindcss/typography';
 
 @theme {
-  --color-myorange: #e0af68;
-  --color-mypurple: #bb9af7;
-  --color-mybg: #1a1b26;
-  --color-myfg: #c0caf5;
+	--color-myorange: #e0af68;
+	--color-mypurple: #bb9af7;
+	--color-mybg: #1a1b26;
+	--color-myfg: #c0caf5;
 }
