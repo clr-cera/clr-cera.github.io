@@ -2,8 +2,7 @@
 	<h1 class="text-mypurple">Thanks Grandma</h1>
 	<div class="text-center">
 		<p>
-			My grandma teached me this recipe,<br />she does for me and my cousins every time we get to
-			her house,<br />and I will always have it in my heart<br />
+			My grandma teached me this recipe<br />and I will always have it in my heart<br />
 		</p>
 	</div>
 
