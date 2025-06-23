@@ -20,5 +20,6 @@
 		<a class="px-3" href="/blog"><strong>Blog</strong></a>
 		<a class="px-3" href="/contact"><strong>Contact</strong></a>
 		<a class="px-3" href="/patetas"><strong>Patetas</strong></a>
+		<a class="px-3" href="/projects"><strong>Projects</strong></a>
 	</div>
 </nav>
