@@ -58,7 +58,7 @@
 		<a href="/about"><strong>About</strong></a>
 		<a href="/blog"><strong>Blog</strong></a>
 		<a href="/contact"><strong>Contact</strong></a>
-		<a href="/patetas"><strong>Patetas</strong></a>
+		<a href="/recipes"><strong>Recipes</strong></a>
 		<a href="/projects"><strong>Projects</strong></a>
 	</div>
 </nav>
